@@ -1,5 +1,5 @@
 {
-    "address": "J9fsqHzQAwiPAFsoBb9ePy7dJbH2Ho1ds2NSw9W45FGx",
+    "address": "HA1xNvKT5ZX6vgYYkkDoQf1bJ4PTkagJYT31yKnFtRoZ",
     "symbol": "IHATE",
     "name": "I Hate Rug Pull... :(",
     "uri": "https://raw.githubusercontent.com/chimogg9/token-ihate/main/js.js",
